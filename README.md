@@ -5,4 +5,4 @@
 - :seedling: 干货：开发中
 - :pencil: 博客：csdn
 - :love_letter: 微信号：xiohuchi
-- :feet: 我的个人网站：[](https://github.com/xiohuchi)https://github.com/xiohuchi
+- :feet: 个人网站：[](https://github.com/xiohuchi)https://github.com/xiohuchi
